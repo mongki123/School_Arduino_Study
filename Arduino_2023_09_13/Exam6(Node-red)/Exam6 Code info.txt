@@ -1,0 +1,13 @@
+
+Inject : -
+
+function : 
+
+	var date = new Date();
+
+	msg.payload = msg.payload + date;
+
+	return msg;
+
+debug : -
+

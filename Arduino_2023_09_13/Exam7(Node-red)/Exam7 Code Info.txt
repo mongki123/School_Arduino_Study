@@ -1,0 +1,14 @@
+
+파렛트 설정 : node-red-dashboard 추가
+
+Inject : 반복(지정한 시간간격 : 3초) 설정
+
+function : 
+
+	var data = Math.floor(Math.random() * 100);
+
+	msg.payload = data;
+
+	return msg;
+
+text & chart : Group 설정

@@ -1,0 +1,4 @@
+
+파렛트 설정 : node-red-node-serialport 추가
+
+serial : Serial Port 설정 , Baud Rate : 115200 설정

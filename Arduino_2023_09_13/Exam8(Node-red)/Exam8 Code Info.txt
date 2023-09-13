@@ -1,0 +1,8 @@
+
+파렛트 설정 : node-red-dashboard 추가
+
+text input : Delay(ms) 3000 지정 , Group( text input & chart ) 지정
+
+debug : -
+
+chart : Label 정보 Number Chart 로 변경 , Group( text input & chart ) 지정
